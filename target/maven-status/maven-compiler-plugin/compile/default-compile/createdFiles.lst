@@ -1,0 +1,5 @@
+com\sidhant\jumbotwo\repository\ItemRepository.class
+com\sidhant\jumbotwo\model\Item.class
+com\sidhant\jumbotwo\client\ConsumerClient.class
+com\sidhant\jumbotwo\JumbotwoApplication.class
+com\sidhant\jumbotwo\controller\ItemController.class
